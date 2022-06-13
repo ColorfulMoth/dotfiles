@@ -1,0 +1,2 @@
+alias ls='exa -lh --sort=type --git'
+alias lsa='exa -lha --sort=type --git'
